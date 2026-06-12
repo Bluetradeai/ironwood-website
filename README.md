@@ -1,5 +1,7 @@
 # Ironwood Construction Group — Website Setup
 
+Live site: https://www.ironwoodconstructiongroupllc.com — deployed automatically from this repo via Vercel.
+
 3 things to do before/after deploying. Takes about 10 minutes total.
 
 ## 1. Deploy to Vercel (2 min)
